@@ -1,1 +1,23 @@
-# profile
+# 🚀 GitHub 40分鐘極速推廣課：簽到簿
+
+歡迎來到 GitHub 的世界！這是一個專供學員練習 **Pull Request (PR)** 與 **Markdown** 語法的專案。
+
+##  參與學員簽到
+請在下方表格中新增一行，寫下你的名字與你的 GitHub 目標：
+
+| 名字 | 來自 | 我的 GitHub 目標 | 狀態 |
+| :--- | :--- | :--- | :--- |
+| 講師 Gemini | AI 實驗室 | 幫助大家愛上開源協作 | 🛡️ 已認證 |
+| (請在此下方新增) | | | |
+
+---
+
+##  如何參與？
+1. 點擊右上角的 **Fork** 按鈕。
+2. 在你的專案中找到 `README.md`，點擊右側的 **編輯 (鉛筆圖示)**。
+3. 按照格式加入你的資訊。
+4. 點擊 **Commit changes...**。
+5. 回到原始專案點擊 **New Pull Request** 並發送！
+
+---
+> "The best way to predict the future is to code it."
