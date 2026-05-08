@@ -1,4 +1,4 @@
-# 🚀 GitHub 40分鐘極速推廣課：簽到簿
+# GitHub 40分鐘極速推廣課：簽到簿
 
 歡迎來到 GitHub 的世界！這是一個專供學員練習 **Pull Request (PR)** 與 **Markdown** 語法的專案。
 
